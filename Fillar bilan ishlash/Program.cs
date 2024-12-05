@@ -319,3 +319,14 @@ class Program
 
 //Ko‘p vazifalarni parallel bajarish
 
+using System;
+namespace File
+{
+    internal class Program
+    {
+        static void Main (string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
